@@ -6,8 +6,8 @@
 
 ---
 
-# Episode #67
-- 🗓 30 March - 04 April 2020
+# Episode #7
+- 🗓 04 April 2020
 - 📹 [Recorded Video](https://www.twitch.tv/videos/583106339)
 
 ### Covid
